@@ -2,9 +2,7 @@
 
 Projeto exemplificando o uso de um EJB e seu lookup remoto através do Application Server Glassfish.
 
-*Projeto criado utilizando Maven e NetBeans.*
-
-## Observação:
+## Observação
 
 Trecho do `pom.xml` que referencia a dependência necessária para permitir o lookup remoto:
 
@@ -15,3 +13,5 @@ Trecho do `pom.xml` que referencia a dependência necessária para permitir o lo
             <version>3.1.1</version>
         </dependency>
 ```
+
+*Projeto criado utilizando Maven e NetBeans. Testado no Glassfish 3.1.2*
