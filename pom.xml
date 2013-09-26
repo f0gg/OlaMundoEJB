@@ -24,13 +24,6 @@
         </dependency>                
     </dependencies>
 
-    <repositories>
-        <repository> <!-- for javaee:javaee-api -->
-            <id>java.net2</id>
-            <url>http://download.java.net/maven/2/</url>
-        </repository>
-    </repositories>
-
     <build>
         <plugins>
             <plugin>
